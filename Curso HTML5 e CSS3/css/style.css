@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(238, 206, 206);
+    margin-left: 25px;
+    margin-right: 300px;
+}
+header{
+    margin-top: 30px;
+}
+h1{
+    color: rgb(32, 164, 216);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: fantasy;
+}
+p{
+    font-size: 18px;
+}
+footer{
+    margin-bottom: 30px;
+}
+.img_contato{
+    margin-bottom: 15px;
+    width: 30px;
+}
+.img_padrao{
+    margin-bottom: 15px;
+    width: 300px;
+}
+.img_parceiros_time{
+    margin-bottom: 15px;
+    width: 150px;
+}
