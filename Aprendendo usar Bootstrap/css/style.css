@@ -1,5 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #3C676A;
     
 }
 .navbar{
@@ -8,10 +9,30 @@ body{
     left: 0%;
     
 }
+.h3quemsomos{
+    position: absolute;
+    top: 200px;
+    width: 100%;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    color: white;
+}
+.texto-quemsomos{
+    position: absolute;
+    top: 300px;
+    width: 100%;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    color: white;
+
+}
 
 
 .quem-somos{
     background-color: #ffffff;
+    opacity: 0.3;
     
 }
 .margin{
@@ -22,24 +43,8 @@ h3{
     font-size: 20px;
     
 }
-.parceiros{
-    background-color: #E0FFFF;
-     
-}
+
 
 .nav-link{
     color: white;
-}
-.escritapag2{
-    text-align:left;
-    position: absolute;
-    bottom: 50px;
-    left: 50px;
-    padding: 10px;
-    color: #ffffff;
-}
-.imagpag2{
-    position: fixed;
-    top: 50px;
-    left: 0px;
 }
